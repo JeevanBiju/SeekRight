@@ -44,23 +44,6 @@ Supports detection of **Yellow** and **White** road markings, with an **Auto** d
 
 ---
 
-## ☁️ Permanent Free Cloud Deployment
-
-### Option A: Render (Free Web Service)
-1. Push this repository to your GitHub.
-2. Go to [render.com](https://render.com) and click **New +** -> **Web Service**.
-3. Connect your GitHub repository.
-4. Set the following settings:
-   - **Environment**: `Python 3`
-   - **Build Command**: `pip install -r requirements.txt`
-   - **Start Command**: `python app.py`
-5. Click **Create Web Service**. Your app will be live 24/7 with a free `.onrender.com` URL!
-
-### Option B: Railway / Koyeb / Fly.io
-This repository includes a `Dockerfile`. You can link your GitHub repo directly to Railway or Koyeb, and it will automatically build and deploy the container.
-
----
-
 ## 📁 Repository Structure
 
 ```
