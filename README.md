@@ -1,6 +1,9 @@
 # 🛣️ SeekRight – Road Marking Corner Detector
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://seekright.onrender.com/)
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/JeevanBiju/SeekRight)
+
+🔗 **Live Web Application**: [https://seekright.onrender.com/](https://seekright.onrender.com/)
 
 An automated computer vision tool to detect the **4 corner points** and compute the **polygon area** of painted road markings (speed-breakers and rumble strips).
 
