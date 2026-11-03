@@ -24,9 +24,9 @@ import gradio as gr  # noqa: E402
 # ── paths to sample images and their recommended colours ────────────────────
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 SAMPLES = [
-    {"path": os.path.join(BASE_DIR, "samples", "image_1.png"),  "color": "Yellow"},
-    {"path": os.path.join(BASE_DIR, "samples", "test4.jpeg"),    "color": "Yellow"},
-    {"path": os.path.join(BASE_DIR, "samples", "test5.jpeg"),    "color": "White"},
+    {"path": os.path.join(BASE_DIR, "samples", "img1.png"),   "color": "Yellow"},
+    {"path": os.path.join(BASE_DIR, "samples", "img2.jpeg"),  "color": "Yellow"},
+    {"path": os.path.join(BASE_DIR, "samples", "img3.jpeg"),  "color": "White"},
 ]
 
 

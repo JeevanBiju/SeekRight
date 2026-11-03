@@ -20,7 +20,7 @@ Supports detection of **Yellow** and **White** road markings, with an **Auto** d
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/<your-username>/SeekRight.git
+   git clone https://github.com/JeevanBiju/SeekRight.git
    cd SeekRight
    ```
 
@@ -52,8 +52,8 @@ Supports detection of **Yellow** and **White** road markings, with an **Auto** d
 ├── requirements.txt    # Python dependencies
 ├── Dockerfile          # Container configuration for cloud deployment
 ├── samples/            # Preset reference images
-│   ├── image_1.png
-│   ├── test4.jpeg
-│   └── test5.jpeg
+│   ├── img1.png
+│   ├── img2.jpeg
+│   └── img3.jpeg
 └── README.md           # Documentation
 ```
